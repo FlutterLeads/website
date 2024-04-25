@@ -10,8 +10,8 @@ const Business = () => {
 
                 <div className='col-span-6 flex flex-col justify-center'>
                     <h2 className='text-midnightblue text-4xl sm:text-5xl font-semibold text-center lg:text-start lh-143'>Make better decisions with Interest Haven.</h2>
-                    <h3 className='text-black text-lg font-normal text-center lg:text-start lh-173 opacity-75 pt-3'>At InterestHaven, we're dedicated to empowering both customers and banks with seamless,
-transparent, and efficient loan solutions. Join us in revolutionizing India's banking landscape and
+                    <h3 className='text-black text-lg font-normal text-center lg:text-start lh-173 opacity-75 pt-3'>At InterestHaven were dedicated to empowering both customers and banks with seamless,
+transparent, and efficient loan solutions. Join us in revolutionizing Indias banking landscape and
 unlocking new opportunities for growth and prosperity.</h3>
                     <Link href={'/'} className="text-electricblue text-lg font-medium flex gap-2 pt-4 mx-auto lg:mx-0">
                         Learn more <Image src="/assets/people/arrow-right.svg" alt="arrow-right" width={24} height={24} />

@@ -33,7 +33,7 @@ const Features = () => {
             <div className="mx-auto max-w-2xl py-20 px-4 sm:px-6 lg:max-w-7xl lg:px-8">
                 <h3 className="text-4xl sm:text-5xl font-semibold text-black text-center my-10">What  We do?</h3>
                 <h5 className="text-black opacity-60 text-lg font-normal text-center">
-In India's dynamic financial landscape, accessing loans is hindered by challenges such as a lack of transparency in loan status and document location, credit score concerns due to multiple inquiries affecting scores, limited awareness of government financial assistance schemes leading to missed opportunities, and inadequate communication on RBI's REPO rate changes and their impact on loan interest rates. Addressing these issues is crucial to streamline and enhance the efficiency of the loan application process for customers.</h5>
+In Indias dynamic financial landscape accessing loans is hindered by challenges such as a lack of transparency in loan status and document location credit score concerns due to multiple inquiries affecting scores, limited awareness of government financial assistance schemes leading to missed opportunities and inadequate communication on RBIs REPO rate changes and their impact on loan interest rates Addressing these issues is crucial to streamline and enhance the efficiency of the loan application process for customers</h5>
 
                 <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-16 gap-y-4 lg:gap-x-8 mt-10'>
                     {Aboutdata.map((item, i) => (
